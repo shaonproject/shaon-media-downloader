@@ -1,32 +1,32 @@
 <h3 align="center">
   
-  <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -NAYAN MEDIA DOWNLOADER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -SHAON MEDIA DOWNLOADER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-NAYAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.NAYAN+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-SHAON+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.SHAON+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
-<a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
-<img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/nayan-media-downloader?label=github&style=flat-square">
-<a href="https://www.npmjs.com/package/nayan-media-downloader"><img src="https://img.shields.io/npm/dm/nayan-media-downloader.svg?style=flat-square" alt="npm downloads"></a>
-[![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-media-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-media-downloader)
+<a href="https://www.npmjs.com/package/shaon-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/shaon-media-downloader.svg?style=flat-square"></a>
+<img alt="version" src="https://img.shields.io/github/package-json/v/shaonproject/shaon-media-downloader?label=github&style=flat-square">
+<a href="https://www.npmjs.com/package/shaon-media-downloader"><img src="https://img.shields.io/npm/dm/shaon-media-downloader.svg?style=flat-square" alt="npm downloads"></a>
+[![js dilvr](https://data.jsdelivr.com/v1/package/npm/shaon-media-downloader/badge)](https://www.jsdelivr.com/package/npm/shaon-media-downloader)
 
 ## Instalation :
 ```bash
-> npm i nayan-media-downloader
+> npm i shaon-media-downloader
 ```
 
 ## Example (fb & insta)
 ```js
-const { ndown } = require("nayan-media-downloader")
+const { ndown } = require("shaon-media-downloader")
 let URL = await ndown("https://www.facebook.com/100000959749712/posts/pfbid0288xi44nvodK9d7r3wf4LHeM3dtEsVghQXmz5t59axwz7KdLStYyg4qfvTVrAL27Ll/?app=fbl")
 console.log(URL)
 ```
 ## Output Example
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
+    "developer": "SHAON AHMED",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
     "devwp": "wa.me/+8801615298449",
     "status": true,
@@ -60,14 +60,14 @@ console.log(URL)
 ```
 ## Example (TikTok)
 ```js
-const { tikdown } = require("nayan-media-downloader")
+const { tikdown } = require("shaon-media-downloader")
 let URL = await tikdown("https://vt.tiktok.com/ZSNvs6h6o/")
 console.log(URL)
 ```
 ## Output Example (tikTok)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
+    "developer": "SHAON AHMED",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
     "devwp": "wa.me/+8801615298449",
     "status": true,
@@ -92,14 +92,14 @@ console.log(URL)
 ```
 ## Example (YouTube)
 ```js
-const { ytdown } = require("nayan-media-downloader")
+const { ytdown } = require("shaon-media-downloader")
 let URL = await ytdown("https://youtu.be/aRSuyrZFu_Q?si=bsfzgeeGmRpsHqnF")
 console.log(URL)
 ```
 ## Output Example (youtube)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
+    "developer": "SHAON AHMED",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
     "devwp": "wa.me/+8801615298449",
     "status": true,
@@ -114,14 +114,14 @@ console.log(URL)
 ```
 ## Example (Twitter)
 ```js
-const { twitterdown } = require("nayan-media-downloader")
+const { twitterdown } = require("shaon-media-downloader")
 let URL = await twitterdown("https://twitter.com/TeamAbhiSha/status/1743351410761019794?t=vms8wxcU0mQuhVxwGCHjFw&s=19")
 console.log(URL)
 ```
 ## Output Example (Twitter)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
+    "developer": "SHAON AHMED",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
     "devwp": "wa.me/+8801615298449",
     "status": true,
@@ -133,10 +133,10 @@ console.log(URL)
 ```
 ## Example Fbdown 
 ```js
-const { fbdown } = require("nayan-media-downloader");
+const { fbdown } = require("shaon-media-downloader");
 const request = require('request')
 
-const key = "Nayan" //dont change key
+const key = "nayan" //dont change key
 
 const cookie = "cookie" //past your fb cookie here
 
@@ -149,7 +149,7 @@ fbdown(link, cookie, key).then(data => {
 ## Output Example (fbdown)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
+    "developer": "SHAON AHMED",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
     "devwp": "wa.me/+8801615298449",
     "url": "https://www.facebook.com/saroj.dwivedi.7121/videos/691539259851175/?idorvanity=213813760197847",
@@ -165,7 +165,7 @@ fbdown(link, cookie, key).then(data => {
  ```
 ## Example Fbdown2
 ```js
-const { fbdown2 } = require("nayan-media-downloader");
+const { fbdown2 } = require("shaon-media-downloader");
 const request = require('request')
 
 const key = "Nayan" //dont change key
@@ -179,7 +179,7 @@ fbdown2(link, key).then(data => {
 ## Output Example (fbdown2)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
+    "developer": "SHAON AHMED",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
     "devwp": "wa.me/+8801615298449",
     "status": true,
@@ -193,7 +193,7 @@ fbdown2(link, key).then(data => {
 
 ## Usage GDLink 
 ```js
-const {GDLink} = require("nayan-media-downloader");
+const {GDLink} = require(shaon-media-downloader");
 
 const url = 'url' // Public Google Drive Url
 
@@ -204,7 +204,7 @@ GDLink(url).then(data => {
 ```
 ## Usage Pintarest 
 ```js
-const {pintarest} = require("nayan-media-downloader");
+const {pintarest} = require("shaon-media-downloader");
 
 const url = 'url' // pintarest post url
 
@@ -214,7 +214,7 @@ const url = 'url' // pintarest post url
 ```
 ## Usage Pintarest 
 ```js
-const {pintarest} = require("nayan-media-downloader");
+const {pintarest} = require("shaon-media-downloader");
 
 const url = 'url' // pintarest post url
 
@@ -224,7 +224,7 @@ const url = 'url' // pintarest post url
 ```
 ## Usage CapCut 
 ```js
-const { capcut } = require("nayan-media-downloader");
+const { capcut } = require("shaon-media-downloader");
 
 const url = "link" // capcut link
 
@@ -234,7 +234,7 @@ capcut(url).then(data => {
 ```
 ## Usage Likee 
 ```js
-const { likee} = require("nayan-media-downloader");
+const { likee} = require("shaon-media-downloader");
 
  const url = "link" // past url
 likee(url).then(data => { 
@@ -243,7 +243,7 @@ likee(url).then(data => {
 ```
 ## Usage Threads
 ```js
-const { threads } = require("nayan-media-downloader");
+const { threads } = require("shaon-media-downloader");
 
  const url = "link" // past url
 threads(url).then(data => { 
@@ -256,7 +256,7 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const {alldown} = require("nayan-media-downloader");
+const {alldown} = require("shaon-media-downloader");
 const url = 'url' // past url
 
   alldown(url).then(data => {
@@ -266,7 +266,7 @@ const url = 'url' // past url
 ## Output Example (alldown)
 ```
 {
-    "developer": "MOHAMMAD NAYAN",
+    "developer": "SHAON AHMED",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
     "devwp": "wa.me/+8801615298449",
     "status": true,
@@ -278,8 +278,8 @@ const url = 'url' // past url
 }
 ```
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801615298449)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/www.xnxx.com169)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100000959749712)
-[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/MOHAMMAD-NAYAN)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801814587247)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Hey.Its.Me.Shaon.Ahmed)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Hey.Its.Me.Shaon.Ahmed)
+[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/shaonproject)
 
